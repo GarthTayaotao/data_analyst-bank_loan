@@ -1,1 +1,4 @@
-# data_analyst-bank_loan
+# Data Analysis of Bank Loan
+### Tools Used:
+#### SQL
+#### Power BI
